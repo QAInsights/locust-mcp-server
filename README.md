@@ -12,6 +12,8 @@ A Model Context Protocol (MCP) server implementation for running Locust load tes
 - HTTP/HTTPS protocol support out of the box
 - Custom task scenarios support
 
+![Locust-MCP-Server](./images/locust-mcp.png)
+
 ## 🔧 Prerequisites
 
 Before you begin, ensure you have the following installed:
