@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/locust-mcp-server.git
+git clone https://github.com/qainsights/locust-mcp-server.git
 ```
 
 2. Install the required dependencies:
@@ -115,6 +115,11 @@ Parameters:
 - `runtime`: Test duration (e.g., "30s", "1m", "5m")
 - `users`: Number of concurrent users to simulate
 - `spawn_rate`: Rate at which users are spawned
+
+## ✨ Use Cases
+
+- LLM powered results analysis
+- Effective debugging with the help of LLM
 
 ## 🤝 Contributing
 

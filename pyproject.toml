@@ -1,7 +1,7 @@
 [project]
 name = "locust-mcp-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Model Context Protocol (MCP) server implementation for running Locust load tests."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
